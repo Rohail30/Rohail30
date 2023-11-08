@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img src="https://i.ibb.co/jDHjxy4/pngwing-com-removebg-preview.png" title="SQL" height= 35 width=35/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" height= 40 width 40/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="JAVA" height= 40 width 40/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" title="Django" height= 40 width 40/ />          
 </p>
 
 <br>
