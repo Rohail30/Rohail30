@@ -45,6 +45,8 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" title="NodeJS" width="39" height="39"/>&nbsp;&nbsp;
 </p>
 
+![](https://github.com/abhinavdubeyad9/github-stats/blob/master/generated/overview.svg)
+
 <br>
 
 <details align="center">
