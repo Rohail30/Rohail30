@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
+
 # Hi, I'm Rohail! 👋
 
 ## 🚀 About Me
 
 Full stack mastery in progress...Code, conquer, repeat.
 
-## 🛠 Skills
-
+## Skills
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Javascript" width="50" height="50"/>&nbsp;&nbsp;
@@ -31,9 +31,9 @@ Full stack mastery in progress...Code, conquer, repeat.
 <img src="https://i.ibb.co/jDHjxy4/pngwing-com-removebg-preview.png" title="SQL" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="JAVA" width="50" height="50"/>
-
+</p>
 ## Tech Stack
-
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" title="Adobe Illustrator" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" title="Adobe Photoshop" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="50" height="50"/>&nbsp;&nbsp;
