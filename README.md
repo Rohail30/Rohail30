@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
 # Hi, I'm Rohail! 👋
 
 ## 🚀 About Me
@@ -41,6 +42,7 @@ Full stack mastery in progress...Code, conquer, repeat.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" title="NodeJS" width="50" height="50"/>&nbsp;&nbsp;
+</p>
 
 <br>
 
