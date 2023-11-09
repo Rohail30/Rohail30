@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-I'm a full stack developer...
+Full stack mastery in progress...Code, conquer, repeat.
 
 ## 🛠 Skills
 
