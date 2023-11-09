@@ -44,8 +44,8 @@ Full stack mastery in progress...Code, conquer, repeat.
 
 <br>
 
-<details align="center">
-<div align="center">
-<img align="center" src="https://streak-stats.demolab.com?user=Rohail30&theme=dark&border_radius=5&date_format=j%2Fn%5B%2FY%5D&fire=00FF00&ring=00FF00&currStreakLabel=00FF00" alt="Rohail's Github Stats" width = 300><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohail30&layout=compact&langs_count=10&theme=transparent" alt="Rohail's Github Stats" width = 300 height = 250><br>
+<details>
+<div>
+<img src="https://streak-stats.demolab.com?user=Rohail30&theme=dark&border_radius=5&date_format=j%2Fn%5B%2FY%5D&fire=00FF00&ring=00FF00&currStreakLabel=00FF00" alt="Rohail's Github Stats" width = 300><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohail30&layout=compact&langs_count=10&theme=transparent" alt="Rohail's Github Stats" width = 300 height = 250><br>
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRohail30&label=Views&labelColor=%23000000&countColor=%23303030&style=flat-square" />
