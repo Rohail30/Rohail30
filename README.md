@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi, I'm Rohail! 👋</h1>
+<h1 align="center"> Hi, I'm Rohail! 👋</h1>
 
 <h1 align="center">🚀 About Me</h1>
 
-<p align="center">Full stack mastery in progress...Code, conquer, repeat.</p>
+<h3 align="center">Full stack mastery in progress...Code, conquer, repeat.</h3>
 
 <h1 align="center">Skills</h1>
 <p align="center">
