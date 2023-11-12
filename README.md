@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi, I'm Rohail! 👋
+<h1 align="center">Hi, I'm Rohail! 👋</h1>
 
 ## 🚀 About Me
 
