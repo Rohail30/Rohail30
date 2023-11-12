@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi, I'm Rohail! 👋</h1>
 
-## 🚀 About Me
+<h1 align="center">🚀 About Me</h1>
 
-Full stack mastery in progress...Code, conquer, repeat.
+<p align="center">Full stack mastery in progress...Code, conquer, repeat.</p>
 
-## Skills
+<h1 align="center">Skills</h1>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>&nbsp;&nbsp;
@@ -32,7 +32,7 @@ Full stack mastery in progress...Code, conquer, repeat.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="JAVA" width="50" height="50"/>
 </p>
 
-## Tech Stack
+<h1 align="center">Tech Stack</h1>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" title="Adobe Illustrator" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" title="Adobe Photoshop" width="50" height="50"/>&nbsp;&nbsp;
