@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" preserveAspectRatio="none">
+  <style>
+    .cloud1 { animation: move1 90s linear infinite; }
+    .cloud2 { animation: move2 60s linear infinite; }
+    .cloud3 { animation: move3 120s linear infinite; }
+
+    @keyframes move1 {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-1440px); }
+    }
+    @keyframes move2 {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-1440px); }
+    }
+    @keyframes move3 {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-1440px); }
+    }
+  </style>
+
+  <!-- Flipped clouds -->
+  <g transform="scale(1,-1) translate(0,-320)">
+    <path class="cloud1" fill="#b0e0e6" d="M0,192L80,181.3C160,171,320,149,480,160C640,171,800,213,960,213.3C1120,213,1280,171,1360,149.3L1440,128L1440,0L0,0Z"></path>
+    <path class="cloud2" fill="#87CEEB" d="M0,224L120,213.3C240,203,480,181,720,192C960,203,1200,245,1320,256L1440,267L1440,0L0,0Z"></path>
+    <path class="cloud3" fill="#1E90FF" d="M0,288L60,272C120,256,240,224,360,213.3C480,203,600,213,720,229.3C840,245,960,267,1080,266.7C1200,267,1320,245,1380,234.7L1440,224L1440,0L0,0Z"></path>
+  </g>
+</svg>
