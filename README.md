@@ -1,6 +1,8 @@
-<!-- 🌥️ Animated Cloud Wave (Top) -->
+
+
+<!-- 🌥️ Top Cloud Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rohal30/rohal30/main/assets/clouds-top.svg" width="100%" height="150">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:87CEEB,100:1E90FF&height=150&section=header&text=Welcome%20to%20My%20Profile!&fontSize=35&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <h1 align="center">
@@ -18,7 +20,6 @@
 ## 🚀 About Me  
 I’m passionate about technology, design, and creativity.  
 Whether it’s coding an app, exploring new tools, or sketching ideas — I love turning imagination into reality.  
-Always curious, always learning, and always ready to take on new challenges.  
 
 ---
 
@@ -86,7 +87,7 @@ Always curious, always learning, and always ready to take on new challenges.
 
 ---
 
-<!-- 🌥️ Animated Cloud Wave (Bottom) -->
+<!-- 🌥️ Bottom Cloud Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rohal30/rohal30/main/assets/clouds-bottom.svg" width="100%" height="150">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1E90FF,100:87CEEB&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=ffffff&animation=twinkling" />
 </p>
