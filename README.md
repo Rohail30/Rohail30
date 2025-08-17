@@ -19,7 +19,6 @@
 ## 🚀 About Me  
 I’m passionate about technology, design, and creativity.  
 Whether it’s coding an app, exploring new tools, or sketching ideas — I love turning imagination into reality.  
-Always curious, always learning, and always ready to take on new challenges.  
 
 ---
 
